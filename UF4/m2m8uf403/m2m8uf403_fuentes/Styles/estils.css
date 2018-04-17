@@ -1,0 +1,138 @@
+@font-face	{
+	font-family: Blade Runner Movie Font Regular;
+	src: url(../Fonts/BLADRMF_.TTF);
+}
+body {
+	font-family: Georgia;
+}
+
+h1, h2, h3, h4 {
+	text-align: center;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2	{
+	font-family: Blade Runner Movie Font Regular;
+	font-size: 2em;
+}
+
+p	{
+	font-size: 0.9em;
+	line-height: 1.4em;
+	margin:0;
+	text-indent: 0.9em;
+}
+
+.primer	{
+	text-indent: 0;
+
+}
+
+.fotocita	{
+	width: 10%;
+}
+.dick	{
+	width: 20%;
+}
+.primer:first-letter{
+	float: left;
+	margin-top: 10px;
+	margin-right: 5px;
+	font-size: 2.8em;
+	font-family: Blade Runner Movie Font Regular;
+}
+
+.xcepcio {
+	font-family: Blade Runner Movie Font Regular;
+	text-transform: lowercase;
+}
+
+#blade{
+	position: absolute;
+	top: 9em;
+	left: 2%;
+	width: 400px;
+	height: 200px;
+	animation-name: blade;
+	animation-duration: 2s;
+	-webkit-animation-name: blade;
+	-webkit-animation-duration: 2s;
+}
+
+#runner{
+	position: absolute;
+	top: 11em;
+	right: 2%;
+	width: 500px;
+	height: 200px;
+	animation-name: runner;
+	animation-duration: 2s;
+	-webkit-animation-name: runner;
+	-webkit-animation-duration: 2s;
+}
+
+@keyframes blade{
+	0%{left:-100%;}
+	100%{left:2%;}
+}
+@-webkit-keyframes blade{
+	0%{left:-100%;}
+	100%{left:2%;}
+}
+
+@keyframes runner{
+	0%{right:-100%;}
+	100%{right:2%;}
+}
+@-webkit-keyframes runner{
+	0%{right:-100%;}
+	100%{right:2%;}
+}
+
+#b{
+	font-family: Blade Runner Movie Font Regular;
+	font-size: 12em;
+	position: absolute;
+	top: 1em;
+	left: 25%;
+	color: #FFF;
+	text-shadow: 1px 1px 5px #333;
+	animation-name: b;
+	animation-duration: 2s;
+	animation-delay: 0s;
+	-webkit-animation-name: b;
+	-webkit-animation-duration: 2s;
+	-webkit-animation-delay: 0s;
+}
+
+@keyframes b{
+	0%{opacity: 0.5;}
+	100{opacity: 1;}
+}
+@-webkit-keyframes b{
+	0%{opacity: 0.5;}
+	100{opacity: 1;}
+}
+
+@media (min-width: 701px)
+{
+				p {column-count: 2;
+					 column-gap: 40px;}
+}
+
+@media (min-width: 1401px)
+{
+				p {column-count: 3;
+					 column-gap: 40px;}
+
+}
+
+@media (min-width: 1401px)
+{
+				p {column-count: 3;
+					 column-gap: 40px;}
+
+}

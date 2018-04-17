@@ -1,0 +1,53 @@
+body {
+  background-color: #f0e7c3;
+}
+
+img src {
+  position: absolute;
+  margin-left: 40%;
+}
+
+#contenidor{
+  position: static;
+  width:230px;
+  font-size: 15px;
+  font-family: sans-serif;
+  padding-top: 125px;
+  margin-left: 40%;
+  padding-left: 87px;
+  margin-top: 70px;
+}
+
+input{
+  width: 220px;
+  height:25px;
+}
+
+button{
+  width:95px;
+  height:45px;
+  margin:3px;
+  border:1px;
+  font-size:15px;
+  color:#dedede;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#Google{
+  background-color: #dd4b35;
+  float:left;
+}
+
+#Fb{
+  background-color: #3b5998;
+}
+
+#Register{
+background-color: #57b548;
+width:200px;
+}
+#registre{height: 40px; background-color: #f0e7c3; overflow: visible; color: black;}
+#registre li{margin: 10px; display: inline;}
+#registre ul{height: 10px; float: right;}
+#movil{height: 1000px; background-color: #f0e7c3; background-image: url(img/frame-iphone5.png); background-repeat: no-repeat; background-position: center 10px; text-decoration: none;}

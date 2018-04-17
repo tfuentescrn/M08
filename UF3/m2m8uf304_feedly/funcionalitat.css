@@ -1,0 +1,35 @@
+.blanc{background-color: #CCC;}
+.negre{background-color: #000;}
+.fa {text-shadow:  1px 1px 3px pink;}
+
+#presentacio {background-color: #CCC;
+  margin: 0;
+  text-align: center;
+  padding: inherit;
+}
+
+#presentacio img {
+ width: 1000px;
+ height: auto;
+}
+.funcio {
+  background-color:;
+  width:50px;
+  float: left;
+
+ }
+ .funcio2 {}
+ .funcio3 {}
+ #primer {height: 675px;
+ background-color: red;
+}
+#segon {height: 675px;
+background-color: red;
+}
+
+#tercer {height: 675px;
+background-color: red;
+
+}
+.titular {}
+.titular2 {}

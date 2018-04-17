@@ -1,0 +1,7 @@
+#capcalera {width: 100%; height: 100px;background-color: pink; clear: both;}
+#menu {width: 40%; height: 800px;background-color: orange; float: left;clear: both;}
+#principal {width: 60%; height: 800px; background-color: purple; float: right;}
+#peu {width: 100%; height: 100px;background-color: gold; float: left;}
+#wrapper {width: 80%; margin: 0 auto;}
+.interior {height: 200px; width: 22%; margin: 1.5%; background-color: pink; float: right;}
+.llista {height: 50px; width: 80%; margin: 5px; background-color: gold; list-style-type: none; margin: 5px auto;}

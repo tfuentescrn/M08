@@ -1,0 +1,6 @@
+#primer {height: 200px; width: 200px; background-color: white; font-size: 50px; font-family: sans-serif;border: solid 10px green;float: left;}
+#segon  {height: 200px; width: 200px; background-color: white; font-size: 50px; font-family: sans-serif;border: solid 10px pink;float: left;}
+#tercer {height: 200px; width: 200px; background-color: white; font-size: 50px; font-family: sans-serif;border: solid 10px blue;float: left;}
+#quart  {height: 200px; width: 200px; background-color: white; font-size: 50px; font-family: sans-serif;border: solid 10px red;float: left;}
+body {padding: 20px;}
+div  {margin: 20px;}

@@ -1,0 +1,98 @@
+body {margin: 0; padding: 0;font-family: Lucida, Verdana, sans-serif; font-family: 'Averia libre';}
+div {overflow: hidden; padding: 20px;}
+p {width: 400px;}
+h1 {width: 400px; text-align: center;font-size: 18px;line-height: 22px;font-weight: 600;}
+
+#menu {height: 50px; background-color: #FFF; overflow: visible; color: green;}
+#menu ul {float: right;}
+#menu li{margin: 10px;display: inline;}
+
+#primer {background-color: #CCC; overflow: hidden;}
+#primer h1 {float: left; width:30%;}
+#primer #contingut {float: left; width: 30%;}
+#primer ul {float: left; width: 30%;}
+#primer li {list-style-type: none;}
+
+a:link {}
+a:visited {color: green;}
+a {text-decoration: none; color: green;}
+a:hover {background-color: white;}
+
+#segon {height: 550px; background-color: #6C3; background-image: url(img/img-hero-full-list.png); background-repeat: no-repeat;background-position: 450px;}
+#tercer {height: 641px; background-color: #FFF; background-image: url(img/allinone.jpg); background-repeat: no-repeat;background-position: 450px;}
+#quart {height: 500px; background-color: #333;background-image: url(img/curator-short.png); background-repeat: no-repeat;background-position: 450px;}
+#cinque {height: 641px; background-color: #EEE;background-image: url(img/img-hero-full-list.png); background-repeat: no-repeat;background-position: 450px;}
+#sise {height: 550px; background-color: #6C3;background-image: url(img/mobile-share.png); background-repeat: no-repeat;background-position: 450px;}
+#sete {height: 643px; background-color: #EEECEE;background-image: url(img/anywhere.png); background-repeat: no-repeat;background-position: 450px;}
+#vuite {height: 200px; background-color: #333;text-align: center;}
+#vuite img{margin: 10px;}
+
+.blanc{background-color: #CCC;}
+.negre{background-color: #000;}
+.fa {text-shadow:  1px 1px 3px pink;}
+
+#presentacio {background-color: #CCC;
+  margin: 0;
+  text-align: center;
+  padding: inherit;
+}
+
+#presentacio img {
+ width: 1000px;
+ height: auto;
+}
+.funcio {
+
+}
+
+
+.funcio2 {}
+.funcio3 {}
+#titol1 {height: 675px;
+ background-color: #FFFFFF;
+}
+#titol2 {height: 675px;
+background-color: #EEE;
+}
+
+#titol3 {height: 675px;
+background-color: #FFFFFF;
+
+}
+.titular {}
+.titular2 {}
+
+#p1 {
+  float: left;
+
+}
+
+#p2 {
+  float: left;
+
+}
+
+#p3 {
+  float: left;
+
+
+}
+
+#p4 {
+  float: left;
+  clear: left;
+
+}
+
+#p5 {
+  float: left;
+}
+
+#p6 {
+  float: left;
+
+}
+.tituloscaja {
+  height: 200px;
+  width: 33%;
+}
